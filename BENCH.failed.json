@@ -1,0 +1,10 @@
+{
+  "project": "PIMATIC",
+  "category": "CONSUMER_APPLIANCES",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CONSUMER_APPLIANCES\\PIMATIC",
+  "status": "failed",
+  "reason": "unreadable BENCH.json: 'metrics'",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
